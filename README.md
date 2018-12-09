@@ -1,21 +1,21 @@
-# falsegods.io: Cloud-Native Web Service for learning about ancient traditions and deities.
+# paganfacts.io: Cloud-Native Web Service for learning about ancient traditions and deities.
 
 TODO: Add Build Badges
 
 # About
 
-falsegods.io is a containerized web service built with ASP.net core and deployed on AWS. It's goal is to act as a fun educational tool to educate others about ancient religions and practices. 
+paganfacts.io is a containerized web service built with ASP.net core and deployed on AWS. It's goal is to act as a fun educational tool to educate others about ancient religions and practices. 
 
 
 # Table of contents
 
-* [Prerequisites](https://github.com/jdbohrman/findyouroldgods#prerequisites)
-* [Overall Architecture of µServices](https://github.com/jdbohrman/findyouroldgods#overall-architecture-of-µservices)
-* [Installation](https://github.com/jdbohrman/findyouroldgods#installation)
-* [CI/CD](https://github.com/jdbohrman/findyouroldgods#ci-cd)
-* [Contributing](https://github.com/jdbohrman/findyouroldgods#contributing)
-* [Contributors](https://github.com/jdbohrman/findyouroldgods#contributors)
-* [License](https://github.com/jdbohrman/findyouroldgods#licence)
+* [Prerequisites](https://github.com/jdbohrman/paganfacts.io#prerequisites)
+* [Overall Architecture of µServices](https://github.com/jdbohrman/paganfacts.ios#overall-architecture-of-µservices)
+* [Installation](https://github.com/jdbohrman/paganfacts.io#installation)
+* [CI/CD](https://github.com/jdbohrman/paganfacts.io#ci-cd)
+* [Contributing](https://github.com/jdbohrman/paganfacts.io#contributing)
+* [Contributors](https://github.com/jdbohrman/paganfacts.io#contributors)
+* [License](https://github.com/jdbohrman/paganfacts.io#licence)
 
 ## Prerequisites
 
@@ -62,4 +62,4 @@ TODO: Add screenshots
 
 ## License
 
-Code released under [the MIT license](https://github.com/jdbohrman/findyouroldgods/blob/master/LICENSE).
+Code released under [the MIT license](https://github.com/jdbohrman/paganfacts.io/blob/master/LICENSE).
